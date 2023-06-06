@@ -19,7 +19,7 @@
             mx410.Stop();
             promaster.Stop();
 
-            modelS.MainColor= "blue";
+            modelS.MainColor= "blue";//gives value to the color property for Tesla.
             promaster.MainColor= "purple";
         }
     }
